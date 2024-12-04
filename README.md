@@ -1,6 +1,6 @@
 Download the files.
 Open folder in cmd.
-python cache.py
+Type "python cache.py"
 Follow the prompt.
 
 You can change addresses.txt to try out different sets of addresses.
